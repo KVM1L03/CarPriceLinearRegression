@@ -2,6 +2,8 @@
 
 This project uses machine learning to predict the selling price of used cars based on various features. It utilizes a Linear Regression model trained on a dataset of car data.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ERNb5ZgU3gjIBBu4Shu4I9m60O-IWDK3?usp=sharing)
+
 ## Table of Contents
 
 - [Dataset](#dataset)
